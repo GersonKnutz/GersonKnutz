@@ -8,7 +8,7 @@
     
 <div style="display: inline_block"><br>
   <img align="center" alt="SQL" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-plain.svg">
-  <img align="center" alt="POWER BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/power BI/power BI-original.svg">
+  <img align="center" alt="POWER BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
   <img align="center" alt="PYTHON" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
