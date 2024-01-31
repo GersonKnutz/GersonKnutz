@@ -8,8 +8,8 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="powerbi" height="30" width="40" src="https://github.com/seu-usuario/seu-repositorio/blob/main/images/minha_imagem.png">
-  <img align="center" alt="powerbi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
+  <img align="center" alt="SQL" height="30" width="40" src="https://github.com/seu-usuario/seu-repositorio/blob/main/images/minha_imagem.png">
+  <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
  
