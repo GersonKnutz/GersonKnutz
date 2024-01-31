@@ -8,7 +8,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  ![conceito-de-lead-qualificado-de-vendas-com-simbolos-sql-em-cubos-de-madeira-fundo-de-madeira-escura_384017-7806](https://github.com/GersonKnutz/GersonKnutz/assets/144898234/33906b47-a658-46be-8831-679e1f930cd8)
+  <img align="center" alt="powerbi" height="30" width="40" src="https://github.com/seu-usuario/seu-repositorio/blob/main/images/minha_imagem.png">
   <img align="center" alt="powerbi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
