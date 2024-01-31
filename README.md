@@ -8,7 +8,7 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="SQL" height="30" width="40" src="https://br.freepik.com/fotos-premium/conceito-de-lead-qualificado-de-vendas-com-simbolos-sql-em-cubos-de-madeira-fundo-de-madeira-escura_76624118.htm#query=sql&position=17&from_view=keyword&track=sph&uuid=6b0bfffe-fe4b-4b42-991e-1c95ef1e748e?sign-up=google)">
+  <img align="center" alt="SQL" height="30" width="40" src="https://br.freepik.com/fotos-premium/conceito-de-lead-qualificado-de-vendas-com-simbolos-sql-em-cubos-de-madeira-fundo-de-madeira-escura_76624118.htm#query=sql&position=17&from_view=keyword&track=sph&uuid=6b0bfffe-fe4b-4b42-991e-1c95ef1e748e?sign-up=google.svg">
   <img align="center" alt="Power BI" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
