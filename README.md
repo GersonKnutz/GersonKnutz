@@ -7,7 +7,8 @@
 </div>
     
 <div style="display: inline_block"><br>
-  <img align="center" alt="sql" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg">
+  <img align="center" alt="sql" height="30" width="40" src="![SQL](https://raw.githubusercontent.com/devicons/devicon/master/icons/sql/sql-original.svg)
+">
   <img align="center" alt="powerbi" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg">
   <img align="center" alt="python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 </div>
