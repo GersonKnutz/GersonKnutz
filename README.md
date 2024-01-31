@@ -1,3 +1,4 @@
+![conceito-de-lead-qualificado-de-vendas-com-simbolos-sql-em-cubos-de-madeira-fundo-de-madeira-escura_384017-7806](https://github.com/GersonKnutz/GersonKnutz/assets/144898234/33906b47-a658-46be-8831-679e1f930cd8)
 ##Welcome to Gerson Knutz's profile 😁
 
  <div>
