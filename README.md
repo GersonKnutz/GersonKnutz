@@ -1,4 +1,4 @@
-## Welcome to Gerson Knutz's profile!😁
+## Welcome to Gerson Knutz's profile!😊
 
  <div>
    <a href="https://github.com/GersonKnutz">
